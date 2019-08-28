@@ -4,7 +4,7 @@
  * Plugin URI: http://platron.ru/
  * Description: Gateway platron for jigoshop.
  * Author: lashnev
- * Version: 1.0.0
+ * Version: 2.0
  * License: GPLv2 or later
  * Text Domain: jigoplatron
  * Domain Path: /languages/
